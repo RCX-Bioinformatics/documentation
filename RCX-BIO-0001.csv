@@ -1,0 +1,3 @@
+Checklist,RCX-BIO-001,RCX Sample Table,,,,,,,,,,,,,,,
+tax_id,scientific_name,sample_alias,sample_title,sample_description,collection date,geographic location (country and/or sea),instrument_model,library_name,library_source,library_selection,library_strategy,library_layout,project_id,run_id,pool,primer,lims_id
+#units,,,,,,,,,,,,,,,,,
